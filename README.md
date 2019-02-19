@@ -4,7 +4,7 @@ that was used to validate the ET-MIP numerical model presented by Molnar et al (
 
 The data exists in a single excel spreadsheet.
 
-For more information contact Dr. Magdalena Krol at magdalena.krol@lassonde.yorku.ca
+For more information contact Dr. Magdalena Krol at magdalena.krol@lassonde.yorku.ca and Dr. Kevin Mumford at kevin.mumford@queensu.ca
 
 As per the Creative Commons Attribution 4.0 International license, users of this data should provide credit. When utilizing this data cite the following:
 
